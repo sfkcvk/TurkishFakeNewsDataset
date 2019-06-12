@@ -1,0 +1,46 @@
+İnternet Yasaklarına Karşı Girişilecek Protesto Eylemlerini Düzenleme Üst Kurulu İçin Düğmeye Basıldı Ulaştırma Bakanlığı, internet kullanıcılarının site yasaklama, zorunlu filtreleme gibi içerik erişimini kısıtlayıcı uygulamalara gereken tepkiyi verecek yetkinliğe sahip olmadığı düşüncesinden hareketle, tamamen bu uygulamalara karşı yapılacak protesto eylemlerini düzenlemek ve bir nizama oturtmak amacıyla yeni bir kurul oluşturmak için düğmeye bastı.
+
+ 
+
+Alan adlarında uygulamaya konulan kısıtlamalar ve kullanıcılar için zorunlu hale getirilmesi düşünülen filtre paketleri ile internette sansür tartışmalarının tekrar alevlendiği bir dönemde, Ulaştırma Bakanlığı halktan gelen tepkileri de düzenlemek adına kolları sıvadı.
+
+ 
+
+
+Bakanlık adına dün sabah kısa bir açıklama yapan Telekomünikasyon İdare Başkanı Seyfi Dingin konuşmasına, İnternet Yasaklarına Karşı Girişilecek Protesto Eylemlerini Düzenleme Üst Kurulu'nun oluşturulma nedenini, "İnternette nereye girip, nereye girmeyeceğini bilmeyen adam, protesto etmeyi hiç bilmez" sözleriyle özetleyerek başladı.
+
+ 
+
+Yasaklarla ölçülü ve konforlu bir şekilde mücadele edilmesi amacıyla oluşturulacak olan kurulun temel işlevinin, insanların tepkilerini nerede, ne zaman ve ne şekilde gösterecekleri konusunda akıllardaki soru işaretlerine bir nebze de olsa cevap getirebilmek olduğunu dile getiren Seyfi Dingin, "Bu yola çıkarkenki ana motivasyonumuz tamamen 'Vatandaşlarımızın o güzel kafaları nasıl daha az yorulur, onları nasıl daha rahat ettiririz' düşüncesi oldu. Zaten bizim bugün burada olma amacımız biraz da bu değil mi?" şeklinde konuştu. Kurulun çalışmalara başlaması ile birlikte, sansüre karşı sesini yükseltmek isteyen herkesin sesi olacağını da kaydeden Telekomünikasyon İdare Başkanı, kamuoyuna yeni uygulamanın neler içerdiğini maddeler halinde duyurdu.
+
+ 
+
+- Uygulanan yasakların delinmesi amacıyla kullanılacak olan DNS ve proxy hizmetleri bu kurum aracılığıyla sağlanarak, bu konudaki düzensizliğe ve başıboşluğa bir son verilecek.
+
+ 
+
+-Söz konusu sınırlandırmaları, kurum tarafından önerilenlerin haricinde kafasına göre, kendi bildiği başka bir takım yöntemlerle delenlere ağır cezalar geliyor.
+
+ 
+
+- İnternet abonelerine "Medeni Paket", "Espritüel Paket", "Hırslı Paket", "Sinkaf Paketi" ve "İroni Plus" gibi farklı tepki alternatifleri sunulacak.
+
+ 
+
+-Kullanıcıların seçtiği paketlere göre, her hafta belli sayıda tepki mesajı kendi bağlantılarından otomatik olarak Telekomünikasyon İletişim Başkanlığı'na iletilecek. Bu mesajların içeriği ise, kurul bünyesinde oluşturulacak Tepki Mesajı Belirleme ve Sınıflandırma Alt Komisyonu tarafından hazırlanacak.
+
+ 
+
+- İnternet sansürünü protesto etmek için yürüyüş veya gösteri tarzı etkinlikler yapılması ihtiyacı doğduğu takdirde, bu etkinlikler kurum tarafından düzenlenecek.
+
+ 
+
+- Birlik ve beraberlik vurgusunun yapılacağı bu yürüyüşlerde kullanıcıları temsilen kurumun kendi içinden seçeceği Temsilciler Komisyonu üyeleri yer alırken, katılımcı olarak ilköğretim öğrencilerinden ve yürüyüşün yapıldığı bölge belediyesinin bando takımlarından faydalanılacak.
+
+ 
+
+- Gösterilerin düzenlediği illerin en üst mülki amirleri, alanda kurulacak olan temsili firewall üzerinden atlayarak protestolara katılacak.
+
+ 
+
+Uygulamanın 22 Ağustos'taki zorunlu filtre uygulamasıyla eşzamanlı olarak yürürlüğe gireceği bildirilirken, vatandaşların bu konuda sahip olabileceği düşünce ve görüşlerinin sıralı tam listesinin ise aynı gün içerisinde muhtarlıklarda ve nüfus dairelerinde askıya çıkacağı duyuruldu.

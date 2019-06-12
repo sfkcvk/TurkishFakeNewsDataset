@@ -1,0 +1,29 @@
+Diyanet İşleri Başkanlığı, Ramazan Ayında Gelecek Soruları "Diyanet Chat Bot"la Karşılamaya Hazırlanıyor Diyanet İşleri Başkanlığı, Ramazan ayı içerisinde her yıl olduğu gibi bu yıl da defalarca sorulması beklenen “orucu bozan haller” ve benzeri sorulara, teknolojik imkanları kullanarak sanal alem üzerinden bir chat bot programıyla cevap verme hazırlığında. Amaçlarını “İlahiyatçıların günaha girme riskini azaltmak”  ve “Seri cevap vermek” olarak özetleyen Diyanet İşleri Basın Sözcüsü İhsan Naroğlu, il müftülerine gönderdiği bir msn iletisiyle tüm Diyanet camiasını “mevzu bahis sorularla gelen müminlere cevap vermeyip, direkt olarak söz konusu programa yönlendirmeleri” konusunda şimdiden uyardı.
+ 
+Dün öğlen saatlerinde Diyanet İşleri Başkanlığı’nın resmi internet sitesinde yapılan açıklamaya göre Ramazan ayından beş gün önce sanal ortama aktarılması beklenen projenin, chat ortamında gelmesi muhtemel sorulara önceden hazırlanmış standart cevaplar veren bir internet uygulaması olduğu yönünde bilgi verilerek, esin kaynağının ise “Merve’yi Tavla” oyunu olduğu belirtildi. İşte, Naroğlu’nun Diyanet’in resmi internet sitesinde yaptığı açıklamadan bazı önemli bölümler:
+ 
+“Arkadaşlarımız gerek ulusal gerek yerel televizyon kanallarında yaptıkları sahur ve iftar programlarında “Hocam yanlışlıkla su içtim, orucum bozulur mu?” sorusuna cevap vermekten dolayı, ellerinde olmadan sinirlenip gönül kırıyorlar, hatta bazıları sinirinden oruçlarını bozuyor, günaha giriyor. Ha keza tansiyonu, şeker gibi rahatsızlıklar yüzünden hastaneye kaldırılan arkadaşlarımız var, neticede camiamızın yaş ortalaması 60 küsür. Bu program sayesinde bir yandan ilahiyatçı arkadaşlarımızın sağlıklı, huzurlu bir Ramazan geçirmesini sağlarken, bir yandan da değerli müslümanlara isterlerse sabaha kadar seri bir şekilde aynı soruyu sorma şansını veriyoruz. Her seferinde aynı cevabı alacakları için, belki bilinçaltlarına yerleşir, kafalarına yer eder diye umuyoruz. Ayrıca günaha girecekse de program girsin, bizim de ibadetimiz boşa gidiyor...”
+ 
+Yazıda ayrıca programın deneme sürümünü geçtiğimiz hafta içinde bazı pilot bölgelerdeki  kullanıcılar üzerinde test etme imkanı bulduklarını da söyleyen Diyanet İşleri Basın Sözcüsü, sonuçların genel olarak umut verici olmasına karşın halen geliştirilmesi gereken hususlar olduğuna dikkat çekti. "Maalesef insanımız chat bot gördüğünde dayanamayıp küfür ediyor. Dahası chat bot'unun da küfür etmesini istiyor. Karşısındaki Diyanet'in bot'u da olsa farketmiyor." ifadelerine yer verilen yazıda, konuya örnek oluşturması açısından chat bot ve bir test kullanıcısı arasında gerçekleşen diyaloglara da yer verildi:
+ 
+< test user1 >selamün aleyküm
+ 
+< diyanet bot >ve aleyküm selam
+ 
+< test user1 >oruçluyken denize girsem orucum bozulur mu?
+ 
+< diyanet bot >oruçluyken denize girince orucunuzun bozulacağını mı düşünüyorsunuz?
+ 
+< test user1 >evet
+ 
+< diyanet bot >neden oruçluyken denize girince orucunuzun bozulacağını düşünüyorsunuz?
+ 
+< test user1 >fuck you!
+ 
+< diyanet bot >bye asshole!
+ 
+Programcı ekibinin Ramazan ayına kadar bu sorunu aşmak için gece gündüz çalıştıklarını belirten Diyanet İşleri Basın Sözcüsü, "chat bot'un ettiği küfürler yüzünden programcıların günaha girip girmediğini inceleyen başka bir ekip daha kurmak zorunda kaldık. Yalnız gerçekten astarı yüzünden pahalıya geliyor bu işin." diyerek, vatandaşları biraz daha anlayışlı olmaya davet etti. 
+ 
+“Çok rica ediyorum, içinde biraz Allah korkusu olan bu soruyu sormasın artık. Kutuplarda oruç kaçıran varsa onun da günahı benim boynuma olsun. Ne kutupmuş arkadaş, lisede coğrafya dersinden kalan adamlar, şimdi kutupların derdine düşmüş. Bir defa zaten kutupta müslüman adam yok gibi bir şey. Benim bildiğim bi tek Cem Boyner arada gidiyor, o da çok kalmıyor iki fok, kutup ayısı falan vurup dönüyor zaten.” 
+ 
+Programın başarılı olması halinde benzer çalışmaların süreceğini ifade eden Diyanet İşleri Basın Sözcüsü "Önümüzdeki günlerde dini kolaylaştırmak adına sürekli yeni fikirler getirebilen başka bir programla özellikle Zekeriya Beyaz, Yaşar Nuri Öztürk gibi hocalarımızın da üzerindeki yükü tamamen hafifletmek istiyoruz." diyerek, açıklamalarını sonlandırdı.

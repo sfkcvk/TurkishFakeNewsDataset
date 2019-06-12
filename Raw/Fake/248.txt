@@ -1,0 +1,7 @@
+Parti Kapatmada Bürokrasi Engeli Teknolojiyle Aşılacak E-devlet projeksiyonu kapsamında Adalet Bakanlığı ve TÜBİTAK'ın ortak çalışmasıyla hazırlanan "ParKa.NET" projesi sayesinde, aylar hatta bazen yıllar süren parti kapatma davalarının önündeki tüm bürokratik engeller kaldırılıyor. Bundan böyle kapatma davaları internet üzerinden online olarak açılabilecek ve sadece bir kaç tuşa dokunularak partiler kapatılabilecek. 
+ 
+Vatandaşlardan gelen şikayetleri dikkate alan Adalet Bakanlığı'nın TÜBİTAK ile ortaklaşa yürüttüğü "ParKa.NET" projesi 3 ay gibi kısa bir sürede tamamlanarak hizmete sunuldu. ParKa.NET'in tanıtım toplantısında sistemin çalışma şeklini kısaca basın mesuplarına anlatan Adalet Bakanlığı Bilişim Teknolojileri Bölüm Başkanı Nihat Doğan, ParKa.NET sayesinde hem partiyi kapatanların hem de kapatılan parti mensuplarının uzun ve yorucu bürokratik işlemlerle boğuşmaktan kurtulacağını müjdeledi. 
+ 
+ 
+ 
+Projenin, kapatılan partiler için de büyük kolaylıklar getirdiğini belirten Doğan, yazılımın bu anlamda sağladığı en büyük avantajın "Otomatik Yeni Parti Adı Jeneratörü" olduğunu söyledi. Temel olarak "Türkiye", "Demokrasi", "Barış", "Adalet", "Yeni", "Bağımsız" ve "Halk" sözcükleri içerisinden rastgele seçilen 2-3 tanesinin çeşitli kombinasyonlarla bir araya getirilmesi prensibiyle çalışan yeni parti adı jeneratörü, özellikle eski DTP mensupları tarafından coşkuyla karşılandı.

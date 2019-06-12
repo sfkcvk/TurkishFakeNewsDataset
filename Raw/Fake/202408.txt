@@ -1,0 +1,35 @@
+Windows 8'e Geçen Amasya Sosyal Güvenlik Kurumu'nda Başlat Menüsüne Ulaşma Çabaları 7. Saatine Girdi Kamu kurum ve kuruluşlarındaki mevcut işletim sistemlerinin windows 8'e yükseltilmesi çalışmaları kapsamında pilot bölge olarak belirlenen Amasya SGK'da kaos büyüyor. İşlerin neredeyse durma noktasına geldiği kurumda emekli maaşlarının dahi ödenemediği bildirilirken, çalışanların başlat menüsüne ulaşma çabalarında 7. saat de geride kaldı.
+
+ 
+
+Kurum çalışanlarının ifadelerine göre her sabah olduğu gibi bu sabah da Amasya Sosyal Güvenlik Kurumu’ndaki işlerine gelerek bilgisayarlarını açan çalışanlar, Windows 8’in yüklendiğini görerek ilk dakikalarda büyük sevinç yaşadılar. “Oooh yeni oyunlar geldi demektir beyler” coşkusuyla işletim sistemi kurcalanmaya başlanırken başlat menüsü ve masaüstünün yok olduğunun fark edilmesi üzerine sevinç yerini panik ve göz yaşına bıraktı.
+
+ 
+
+Windows 8’e geçişin ilk önemli etkisi ise, sabah saatlerinde Ziraat Bankası’na gönderilmesi gereken emekli maaşları listesinin bulunamaması oldu. Emekli İşleri Daire Başkanı Ekrem Tongür’ün yaklaşık 16 yıldır “My Computer/Ekrem Belgeler/Maaş” klasörü altında tutmakta olduğu “Emekli_Ocak_Sonsonson_SİLMEYİN.xls” dosyasına ulaşılamaması kurumda krize neden olurken, dosya arama-kurtarma çalışmaları için olay yerine çağırılan IT personelinin çabaları da henüz bir sonuç vermedi. Çalışma arkadaşları tarafından teskin edilmeye çalışılan Tongür'ün, “O dosya çok önemliydi yaa… Ben oraya tek tek Ahmet Amca (öldü, geçen ay da fazladan yatırmışız), Neriman Teyze (100 TL alacağı var) gibi önemli notları ekliyordum.” şeklindeki feryatları ise yürekleri dağladı.  
+
+ 
+
+Maaşların ödenememesinin yanı sıra, peçok çalışanın Facebook'a dahi giremediği kurumda panik dalgası her geçen saat büyürken, mesai başlangıcından itibaren yaşananlarsa dakika dakika şöyle:
+
+  Windows 8’den bilgisayarını periyodik aralıklara açıp kapatarak kurtulacağına inanan bir grup memurun dördüncü restart’ında da sonuç alınamadı.
+
+  Bilgisayar kasalarına toz kaçmış olabileceği sonucuna varan bazı çalışanların kasaları açarak yürüttüğü hummalı temizlik esnasında çok sayıda ataş, zımba teli ve Şermin hanım’ın 2007 yılında kaybolan alyansının yanı sıra minik bir de fare bulundu. “Bağkur” adı verilen sevimli fare, bir anda kurumun maskotu haline geldi.
+
+  İdari İşler Dairesi’nde kahvaltı, kahvaltı sonrası çay ve günün dedikodularının yapılması gibi günlük rutin işlerin ardından açılan bilgisayarlarda Windows 8’le karşılaşan memurlar, sistemde genel bir sorun olduğuna kanaat getirerek birer Türk kahvesi içme fikrinde birleşti.
+
+  Kurumda daha önce “Beyler, Caps Lock’a basınca tamamını büyük yazıyo!” buluşuyla bilgisayar konusunda haklı bir üne kavuşan Önder Belirez, kendisine gelen başvurular üzerine nihai değerlendirmesini açıkladı: “Cık… Direk format lazım”
+
+  Windows 8’in dokunmatik olduğuna ilişkin yayılan söylentiler sonucunda yaklaşık 200 çalışan monitörlerini parmaklamaya başladı. Ulaşılabilen yegane nokta "Bak bak iyicene bastırınca yeşilli mavili bişeyler oluyor" olurken eliyle sayfa çevirmeye çalışan Osman bey'in yanlışlıkla monitöre fazla yaklaşmış olan Nuran hanım'a çaktığı tokat gülüşmelere neden oldu.
+
+  Finansman Dairesi’nde 1 kişinin start menü'ye ulaştığı bilgisi umutları tekrar yeşertirken gözlerin de bir anda bu departmana çevrilmesine neden oldu. Finans Uzman Yardımcısı Serhat Gülerlik’in "Yemin ederim bulmuştum. Bir iki saniye gördüm ama o heyecanla hemen oyunları açmaya çalışırken nolduysa tekrar kayboldu. Keşke hiç dokunmayasaydım lan" sözleriyle pişmanlığını dile getirmesi üzerine çalışanlar hayal kırıklığı içinde masalarına geri döndüler.
+
+  Başlayan öğle tatili ile birlikte memurlar, evleri yakın olan tanıdıklarına giderek Facebook hesaplarını kontrol ettiler. Kurum genelinde genel bir rahatlama havası hakim oldu.
+
+  Fark etmeden anında paylaşım özelliğini etkinleştiren Muhaberat Dairesi’nin “Bir grup insanın merakla monitöre baktığı" fotoğraf serisi amasya.sgk.gov.tr adresinde yayınlanmaya başlandı.
+
+  Dış İlişkiler Koordinatörlüğü’nde görevli Çetin Akbarut, yoğun uğraşları sonucunda bir şekilde Dos ekranına ulaştı. “Dir C:” komutuyla birlikte eski günleri yadeden Akbarut, Dos’tan yeniden Windows 8’e dönemeyerek yaşadığı sistem sıkıntısını daha ileri bir boyuta taşıdı.
+
+  Okuldan çıkarak servisle annesinin işyerine bırakılan Onur Bilgin (8)’in tek bir hamleyle paint açması üzerine kurum genelinde paint’in nasıl açılacağı öğrenildi. Kurum Sekreteri Aytennur Gülper’in yaptığı “Güneşin ortasından doğduğu dağların arasından geçen derenin kenarındaki evin bahçesinde yer alan anne-baba-çocuk” resmi büyük beğeni toplarken Personel İşleri Dairesi Başkanı Birol Kozalan’ın çaprazlamasına yazdığı “Baba Birol Vatan:55 Mekan:05” yazısı “Adam personelci şimdi, başımıza iş açmasın” düşüncesiyle alkışlandı.
+
+  Mesainin 7. saatine girilirken Start Menü'sünden halen sağlıklı bir haber alınamıyor...
